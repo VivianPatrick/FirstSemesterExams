@@ -853,3 +853,10 @@
     font-size: var(--FS-700);
     font-weight: 900;
   }
+
+  .foot{
+    display: flex;
+    position: relative;
+    gap: 10px;
+    right: -900px;
+  }
